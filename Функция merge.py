@@ -23,3 +23,5 @@ list2 = spisok_chisel_iz_stroki()
 
 print(merge(list1, list2))
 
+print("send nudes")
+
